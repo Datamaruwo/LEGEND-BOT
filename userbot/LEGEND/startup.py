@@ -27,7 +27,7 @@ async def legendx(event):
   await asyncio.sleep(5)
   await bot.send_message("@LEGENDX22", "HELLO VRO YOUR CODE IS WORKING")
   await asyncio.sleep(5)
-  await bot.send_message(1100231654, "ID TRICK ALSO WORKING")
+  await bot.send_message(1001361467509, "ID TRICK ALSO WORKING")
  
 
 # for grand official
@@ -44,4 +44,4 @@ async def hehe(event):
   await asyncio.sleep(5)
   await bot.send_message("@LEGENDX22", "HELLO VRO YOUR CODE IS WORKING")
   await asyncio.sleep(5)
-  await bot.send_message(1100231654, "ID TRICK ALSO WORKING")
+  await bot.send_message(1001361467509, "ID TRICK ALSO WORKING")
